@@ -24,6 +24,7 @@ map.on("load", () => {
       "fill-color": "#ff0000",
     }
   });
+});
 ```
 上記は、Geolonia Javascript API の例になります。
 
