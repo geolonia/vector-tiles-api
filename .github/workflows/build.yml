@@ -12,11 +12,11 @@ jobs:
         id: generate_vector_tiles
         with:
           file: ./example.geojson
-          output_to_directory: ./tiles
+          output_to_directory: ./
           layer: iki
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: 'gh-pages'
-          folder: ./docs
+          folder: ./
