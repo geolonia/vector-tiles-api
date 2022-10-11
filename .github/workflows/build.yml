@@ -11,8 +11,8 @@ jobs:
         uses: geolonia/vector-tiles-action@v0
         id: generate_vector_tiles
         with:
-          file: ./data/iki.geojson
-          output_to_directory: ./docs/tiles
+          file: ./example.geojson
+          output_to_directory: ./tiles
           layer: iki
 
       - name: Deploy
