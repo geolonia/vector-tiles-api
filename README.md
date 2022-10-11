@@ -2,7 +2,7 @@
 
 このリポジトリは、GeoJSON フォーマットのデータを GitHub Actions で ベクトルタイル に変換し API として公開するためのテンプレートリポジトリです。
 
-Geolonia Maps Javascript API や、Mapbox GL JS、 MapLibre GL JS では以下のように指定する事でデータを表示することができます。
+Geolonia の Javascript API や、Mapbox GL JS、 MapLibre GL JS では以下のように指定する事でデータを表示することができます。
 
 詳しくは [デモをご参考ください](https://codepen.io/naogify/pen/poVQGyQ) 
 
