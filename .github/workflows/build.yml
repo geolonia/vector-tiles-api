@@ -12,7 +12,7 @@ jobs:
         id: generate_vector_tiles
         with:
           file: ./example.geojson
-          output_to_directory: ./
+          output_to_directory: ./tiles
           layer: iki
 
       - name: Deploy
