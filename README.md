@@ -25,6 +25,7 @@ map.on("load", () => {
     }
   });
 ```
+上記は、Geolonia Javascript API の例になります。
 
 
 ## ご利用方法
