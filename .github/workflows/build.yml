@@ -13,7 +13,7 @@ jobs:
         with:
           file: ./example.geojson
           output_to_directory: ./tiles
-          layer: iki
+          layer: g-simplestyle-v1
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
