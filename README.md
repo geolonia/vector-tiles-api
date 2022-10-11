@@ -10,6 +10,7 @@ Geolonia の Javascript API や、Mapbox GL JS、 MapLibre GL JS では以下の
 const map = new geolonia.Map("#map");
 
 map.on("load", () => {
+
   map.addSource("sample-data", {
     type: "vector",
     tiles: ["https://YOUR-GITHUB-USER.github.io/vector-tiles-api/tiles/{z}/{x}/{y}.mvt"],
