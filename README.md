@@ -1,6 +1,6 @@
 # Vector Tiles API
 
-このリポジトリは、GeoJSON フォーマットのデータを GitHub Actions で ベクトルタイル に変換し API として公開するためのテンプレートリポジトリです。
+このリポジトリは、GeoJSON フォーマットのデータを GitHub Actions で Mapbox Vector Tile (`.mvt`) フォーマットに変換し API として公開するためのテンプレートリポジトリです。
 
 Geolonia の Javascript API や、Mapbox GL JS、 MapLibre GL JS では以下のように指定する事でデータを表示することができます。
 
