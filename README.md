@@ -1,4 +1,7 @@
-# Geolonia Locations Action Template
+# Vector Tiles API
 
-GeoJSON ベクトルタイルに変換する GitHub Action [Geolonia Locations Action](https://github.com/geolonia/geolonia-locations-action) のテンプレートリポジトリです。
+このリポジトリは、GeoJSON フォーマットのデータを GitHub Actions で ベクトルタイル に変換し API として公開するためのテンプレートリポジトリです。
 
+## ご利用方法
+
+## GitHub Pages の設定方法
