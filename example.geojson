@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "title": "サンプルのポリゴン",
-        "description": "Hello World!",
+        "description": "Hello World!!",
         "stroke": "#935100",
         "stroke-width": 2,
         "stroke-opacity": 1,
