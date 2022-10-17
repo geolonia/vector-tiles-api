@@ -13,7 +13,7 @@ map.on("load", () => {
 
   map.addSource("sample-data", {
     type: "vector",
-    tiles: ["https://YOUR-GITHUB-USER.github.io/vector-tiles-api/tiles/{z}/{x}/{y}.mvt"],
+    url: "https://YOUR-GITHUB-USER.github.io/YOUR-REPOSITORY/tiles/tiles.json",
   });
 
   map.addLayer({
@@ -35,13 +35,13 @@ map.on("load", () => {
 * [[Use this template]](https://github.com/naogify/vector-tiles-api/generate) ボタンをクリックして、このテンプレートを自分のリポジトリにコピーしてください。
 * [GitHub Pages の設定方法](#github-pages-%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95) を参考に設定をして下さい。
 * `example.geojson` を編集してコミットすると数分後に ベクトルタイルが生成されます。
-* `https://<あなたのGitHubユーザー名>.github.io/<リポジトリ名>/tiles/{z}/{x}/{y}.mvt` の URL を以下のように指定することで、データソースとして地図に追加できます。
+* `https://<あなたのGitHubユーザー名>.github.io/<リポジトリ名>/tiles/tiles.json` の URL を以下のように指定することで、データソースとして地図に追加できます。
 * `source-layer` は、`g-simplestyle-v1` と指定して下さい。
 
 ```
 map.addSource("sample-data", {
   type: "vector",
-  tiles: ["https://YOUR-GITHUB-USER.github.io/vector-tiles-api/tiles/{z}/{x}/{y}.mvt"],
+  url: "https://YOUR-GITHUB-USER.github.io/YOUR-REPOSITORY/tiles/tiles.json",
 });
 ```
 
