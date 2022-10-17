@@ -6,7 +6,6 @@ Geolonia の Javascript API や、Mapbox GL JS、 MapLibre GL JS では以下の
 
 詳しくは [デモをご参考ください](https://codepen.io/naogify/pen/OJZGRQY) 
 
-
 ```
 const map = new geolonia.Map("#map");
 
