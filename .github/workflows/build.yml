@@ -13,7 +13,6 @@ jobs:
         with:
           file: ./example.geojson
           out_dir: ./
-          layer: g-simplestyle-v1
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
