@@ -56,6 +56,21 @@ map.on("load", () => {
 ```
 上記は、Geolonia Javascript API の例になります。
 
+## GeoJSON データの使用方法
+
+* 以下の [build.yml](https://github.com/geolonia/vector-tiles-api/blob/main/.github/workflows/build.yml#L20) の 20行目の `"*.csv"` を `"*.geojson"` に書き換えて push して下さい。
+* `example.csv` を削除し、`example.geojson` をアップロードして下さい。数分でタイルが生成されます。
+
+**build.yml**
+```
+  with:
+    file: "*.csv"
+    out_dir: ./
+```
+
+https://github.com/geolonia/vector-tiles-api/blob/main/.github/workflows/build.yml#L20
+
+
 
 ## GitHub Pages の設定方法
 

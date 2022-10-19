@@ -1,0 +1,1181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000001",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "虎ノ門駅９番口",
+        "名称_カナ": "トラノモンエキ９バングチ",
+        "名称_英語": "Toranomon Station Exit 9",
+        "住所": "東京都港区虎ノ門一丁目1番15号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.751303,
+          35.669865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000002",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "内幸町駅Ａ４番口",
+        "名称_カナ": "ウチサイワイチョウエキＡ４バングチ",
+        "名称_英語": "Uchisaiwaicho Station Exit A4",
+        "住所": "東京都港区西新橋一丁目3番12号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.754194,
+          35.668889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000003",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "新橋駅銀座口",
+        "名称_カナ": "シンバシエキギンザクチ",
+        "名称_英語": "Shimbashi Station Ginza Exit",
+        "住所": "東京都港区新橋一丁目11番",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.758966,
+          35.667359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000004",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "新橋駅前西口広場",
+        "名称_カナ": "シンバシエキマエニシグチヒロバ",
+        "名称_英語": "West Exit Plaza front of Shimbashi Station",
+        "住所": "東京都港区新橋二丁目16番1号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.757554,
+          35.667038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000005",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "新橋駅前西口広場２",
+        "名称_カナ": "シンバシエキマエニシグチヒロバ２",
+        "名称_英語": "West Exit Plaza2 in front of Shimbashi Station",
+        "住所": "東京都港区新橋二丁目16番1号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.75745,
+          35.666869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000006",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "神谷町駅４番口",
+        "名称_カナ": "カミヤチョウエキ４バングチ",
+        "名称_英語": "Kamiyacho Station Exit 4",
+        "住所": "東京都港区虎ノ門五丁目1番8号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.745311,
+          35.663448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000007",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "御成門駅Ａ５番口",
+        "名称_カナ": "オナリモンエキＡ５バングチ",
+        "名称_英語": "Onarimon Station Exit A5",
+        "住所": "東京都港区西新橋三丁目24号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.751402,
+          35.661268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000008",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "港区本庁舎（芝地区総合支所）",
+        "名称_カナ": "ミナトクホンチョウシャ（シバチクソウゴウシショ）",
+        "名称_英語": "Minato City Hall (Shiba Regional City Office)",
+        "住所": "東京都港区芝公園一丁目5番25号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.751476,
+          35.65802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000009",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "大門駅Ａ６番口",
+        "名称_カナ": "ダイモンエキＡ６バングチ",
+        "名称_英語": "Daimon Station Exit A6",
+        "住所": "東京都港区芝大門二丁目3番1号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.753784,
+          35.656786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000010",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "浜松町駅北口",
+        "名称_カナ": "ハママツチョウエキキタグチ",
+        "名称_英語": "Hamamatsucho Station North Exit",
+        "住所": "東京都港区浜松町二丁目4番1号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.756391,
+          35.656527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000011",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "田町駅三田口",
+        "名称_カナ": "タマチエキミタクチ",
+        "名称_英語": "Tamachi Station Mita Exit",
+        "住所": "東京都港区芝五丁目34番",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.747229,
+          35.646297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000012",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "六本木一丁目駅３番口",
+        "名称_カナ": "ロッポンギイッチョウメエキ３バングチ",
+        "名称_英語": "Roppongi-itchome Station Exit 3",
+        "住所": "東京都港区六本木一丁目4番",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.739212,
+          35.666436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000013",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "乃木坂駅駅前郵便局付近",
+        "名称_カナ": "ノギザカエキエキマエユウビンキョクフキン",
+        "名称_英語": "Near Post Office in front of Nogizaka Station",
+        "住所": "東京都港区六本木七丁目3番10号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.727938,
+          35.666466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000014",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "六本木駅６番口",
+        "名称_カナ": "ロッポンギエキ６バングチ",
+        "名称_英語": "Roppongi Station Exit 6",
+        "住所": "東京都港区六本木四丁目8番5号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.733384,
+          35.663946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000015",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "六本木駅４番口",
+        "名称_カナ": "ロッポンギエキ４バングチ",
+        "名称_英語": "Roppongi Station Exit 4",
+        "住所": "東京都港区六本木七丁目14番12号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.731505,
+          35.663036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000016",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "麻布地区総合支所",
+        "名称_カナ": "アザブチクソウゴウシショ",
+        "名称_英語": "Azabu Regional City Office",
+        "住所": "東京都港区六本木五丁目16番45号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.735062,
+          35.660606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000017",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "麻布十番駅５番口",
+        "名称_カナ": "アザブジュウバンエキ５バングチ",
+        "名称_英語": "Azabu-juban Station Exit 5",
+        "住所": "東京都港区麻布十番一丁目11番8号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.736938,
+          35.655585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000018",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "広尾駅１番口",
+        "名称_カナ": "ヒロオエキ１バングチ",
+        "名称_英語": "Hiro-o Station Exit 1",
+        "住所": "東京都港区未南麻布五丁目15番",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.722362,
+          35.651159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000019",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "赤坂見附駅豊川稲荷前歩道橋付近",
+        "名称_カナ": "アカサカミツケエキトヨカワイナリマエホドウキョウフキン",
+        "名称_英語": "Near Akasaka-mitsuke Station Toyokawa-inari Footbridge",
+        "住所": "東京都港区元赤坂一丁目3番9号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.734456,
+          35.677096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000020",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "赤坂見附駅１番口",
+        "名称_カナ": "アカサカミツケエキ１バングチ",
+        "名称_英語": "Akasaka-mitsuke Station Exit 1",
+        "住所": "東京都港区赤坂三丁目3番3号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.738006,
+          35.675371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000021",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "赤坂地区総合支所",
+        "名称_カナ": "アカサカチクソウゴウシショ",
+        "名称_英語": "Akasaka Regional City Office",
+        "住所": "東京都港区赤坂四丁目18番13号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.731628,
+          35.674754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000022",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "青山一丁目駅ＮＴＴビル付近",
+        "名称_カナ": "アオヤマイッチョウメエキＮＴＴビルフキン",
+        "名称_英語": "Near Aoyama-itchome Station NTT Building",
+        "住所": "東京都港区赤坂八丁目4番23号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.726761,
+          35.673428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000023",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "赤坂駅氷川公園付近",
+        "名称_カナ": "アカサカエキヒカワコウエンフキン",
+        "名称_英語": "Near Akasaka Station Hikawa Park",
+        "住所": "東京都港区赤坂六丁目5番1号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7374,
+          35.671436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000024",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "外苑いちょう並木入口",
+        "名称_カナ": "ガイエンイチョウナミキイリグチ",
+        "名称_英語": "Gaien Icho Namiki Entrance",
+        "住所": "東京都港区北青山二丁目1番",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716135,
+          35.66957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000025",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "外苑前駅外苑前歩道橋付近",
+        "名称_カナ": "ガイエンマエエキガイエンマエホドウキョウフキン",
+        "名称_英語": "Near Gaiemmae Station Gaiemmae Footbridge",
+        "住所": "東京都港区北青山二丁目14番",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716667,
+          35.670247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000026",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "表参道駅Ｂ５番口",
+        "名称_カナ": "オモテサンドウエキＢ５バングチ",
+        "名称_英語": "Omote-sando Station Exit B5",
+        "住所": "東京都港区北青山三丁目6番12号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.712018,
+          35.665303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000027",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "表参道駅Ｂ３番口",
+        "名称_カナ": "オモテサンドウエキＢ３バングチ",
+        "名称_英語": "Omote-sando Station Exit B3",
+        "住所": "東京都港区南青山五丁目1番22号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711909,
+          35.664156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000028",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "高輪地区総合支所",
+        "名称_カナ": "タカナワチクソウゴウシショ",
+        "名称_英語": "Takanawa Regional City Office",
+        "住所": "東京都港区高輪一丁目16番25号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73408,
+          35.641957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000029",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "白金台駅１番口",
+        "名称_カナ": "シロガネダイエキ１バングチ",
+        "名称_英語": "Shirokanedai Station Exit 1 ",
+        "住所": "東京都港区白金台三丁目14番",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.725505,
+          35.637516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000030",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "泉岳寺交差点付近",
+        "名称_カナ": "センガクジコウサテンフキン",
+        "名称_英語": "Near Sengakuji intersection",
+        "住所": "東京都港区高輪二丁目15番",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.738942,
+          35.636808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000031",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "品川駅高輪口",
+        "名称_カナ": "シナガワエキタカナワクチ",
+        "名称_英語": "Shinagawa Station Takanawa Exit",
+        "住所": "東京都港区高輪三丁目26番",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.737904,
+          35.628657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000032",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "芝浦港南地区総合支所",
+        "名称_カナ": "シバウラコウナンチクソウゴウシショ",
+        "名称_英語": "Shibaura-konan Regional City Office",
+        "住所": "東京都港区芝浦一丁目16番1号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.751907,
+          35.646566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000033",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "田町駅芝浦口",
+        "名称_カナ": "タマチエキシバウラクチ",
+        "名称_英語": "Tamachi Station Shibaura Exit",
+        "住所": "東京都港区芝浦三丁目3番",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.748183,
+          35.645036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000034",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "品川駅こうなん星の公園付近",
+        "名称_カナ": "シナガワエキコウナンホシノコウエンフキン",
+        "名称_英語": "Near Shinagawa Station Konan-Hoshino Park",
+        "住所": "東京都港南一丁目9番24号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.742412,
+          35.629844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000035",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "品川駅港南口",
+        "名称_カナ": "シナガワエキコウミナミグチ",
+        "名称_英語": "Shinagawa Station Konan Exit",
+        "住所": "東京都港区港南二丁目14番",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.741558,
+          35.628948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000036",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "お台場学園前",
+        "名称_カナ": "オダイバガクエンマエ",
+        "名称_英語": "In front of Odaiba Gakuen",
+        "住所": "東京都港区台場一丁目1番",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.776363,
+          35.634165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000037",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "お台場レインボー公園前",
+        "名称_カナ": "オダイバレインボーコウエンマエ",
+        "名称_英語": "In front of Odaiba Rainbow Park",
+        "住所": "東京都港区台場一丁目3番1号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.778071,
+          35.632065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000038",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "お台場海浜公園東口広場",
+        "名称_カナ": "オダイバカイヒンコウエンヒガシグチヒロバ",
+        "名称_英語": "Odaiba-kaihinkoen East Exit Plaza",
+        "住所": "東京都港区台場一丁目4番",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.777459,
+          35.631181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000039",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "芝浦港南地区総合支所台場分室",
+        "名称_カナ": "シバウラコウナンチクソウゴウシショダイバブンシツ",
+        "名称_英語": "Shibaura-konan Regional City Office, Daiba Annex",
+        "住所": "東京都港区台場一丁目5番1号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.777079,
+          35.630002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000040",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "台場区民センター",
+        "名称_カナ": "ダイバクミンセンター",
+        "名称_英語": "Daiba Civic Center",
+        "住所": "東京都港区台場一丁目5番1号",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.777079,
+          35.630002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000041",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "お台場海浜公園中央駐車場付近",
+        "名称_カナ": "オダイバカイヒンコウエンチュウオウチュウシャジョウフキン",
+        "名称_英語": "Odaiba-kaihinkoen Central Plaza",
+        "住所": "東京都港区台場一丁目4番",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.769378,
+          35.626501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "都道府県コード又は市区町村コード": "131032",
+        "NO": "0000000042",
+        "都道府県名": "東京都",
+        "市区町村名": "港区",
+        "名称": "台場交差点付近",
+        "名称_カナ": "ダイバコウサテンフキン",
+        "名称_英語": "Near Daiba Intersection",
+        "住所": "東京都港区台場一丁目6番",
+        "方書": "",
+        "設置者": "港区総務部情報政策課",
+        "電話番号": "",
+        "内線番号": "",
+        "SSID": "Minato_City_Wi-Fi",
+        "提供エリア": "",
+        "URL": "https://www.city.minato.tokyo.jp/jouhokanri/kuse/minatocitywi-fi_01.html",
+        "備考": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.775005,
+          35.628485
+        ]
+      }
+    }
+  ]
+}
