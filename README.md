@@ -1,6 +1,6 @@
 # Vector Tiles API
 
-このリポジトリは、CSV/GeoJSON フォーマットのデータを GitHub Actions で Mapbox Vector Tile (`.mvt`) フォーマットに変換し API として公開するためのテンプレートリポジトリです。
+このリポジトリは、`CSV`や`GeoJSON` フォーマットのデータを GitHub Actions で Mapbox Vector Tile (`.mvt`) フォーマットに変換し API として公開するためのテンプレートリポジトリです。
 生成したタイルは、空間IDタイルデータ取得SDKや、Mapbox GL JS、 MapLibre GL JS、Geolonia の Javascript API等でご利用いただけます。
 
 * [空間IDタイルデータ取得SDKのデモ](https://geolonia.github.io/spatial-id-request-sdk/)
@@ -64,3 +64,7 @@ map.on("load", () => {
 
 ![sample](https://user-images.githubusercontent.com/8760841/195016374-3630ae80-b170-4d87-8e3d-88f5408e7a7b.png)
 
+## データ出典
+
+サンプルデータは以下のデータを利用しています。
+- 「 公衆無線LANアクセスポイント一覧」（港区）（https://opendata.city.minato.tokyo.jp/dataset/minato_city_wifi/resource/d02ec3d4-7c47-4538-bdf8-05167c5f7112) を加工して作成
