@@ -1,8 +1,14 @@
-on: [push]
+on:
+  push:
+    branches:
+      - main
 jobs:
   generate_tile_job:
     runs-on: ubuntu-latest
     name: A job to generate vector tiles
+    concurrency: 
+      group: ${{ github.ref }} # 同じブランチで並列実行を防ぐ
+      cancel-in-progress: true
     steps:
       - name: checkout
         uses: actions/checkout@v3
@@ -11,11 +17,11 @@ jobs:
         uses: geolonia/geolonia-locations-action@main
         id: generate_vector_tiles
         with:
-          file: ./example.geojson
+          file: "*.csv"
           out_dir: ./
 
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@v4.4.1
         with:
-          branch: 'gh-pages'
+          branch: gh-pages
           folder: ./
