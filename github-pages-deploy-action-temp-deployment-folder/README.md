@@ -12,7 +12,11 @@
 * [[Use this template]](https://github.com/naogify/vector-tiles-api/generate) ボタンをクリックして、このテンプレートを自分のリポジトリにコピーしてください。
 * [GitHub Pages の設定方法](#github-pages-%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95) を参考に設定をして下さい。
 * `example.csv` を編集してコミットすると数分後に ベクトルタイルが生成されます。
+  * csv の先頭行には、**必ず `緯度`、`経度`という項目を追加して下さい**
+  * 任意のファイル名の CSV を1つのみ設置できます。
 * `https://<あなたのGitHubユーザー名>.github.io/<リポジトリ名>/tiles/tiles.json` の URLが生成されます。（[サンプル URL](https://geolonia.github.io/vector-tiles-api/tiles/tiles.json)）
+
+
 
 ### 空間IDタイルデータ取得SDKのご利用方法
 
