@@ -1,64 +1,35 @@
-# Vector Tiles API
+# GitHub を活用したベクトルタイル配信基盤
 
-このリポジトリは、`CSV`や`GeoJSON` フォーマットのデータを GitHub Actions で Mapbox Vector Tile (`.mvt`) フォーマットに変換し API として公開するためのテンプレートリポジトリです。
-生成したタイルは、空間IDタイルデータ取得SDKや、Mapbox GL JS、 MapLibre GL JS、Geolonia の Javascript API等でご利用いただけます。
+このリポジトリは、`CSV` と `GeoJSON` フォーマットのデータを Mapbox Vector Tile (`.mvt`) フォーマットに変換し API として公開するための**テンプレートリポジトリ**（後述）です。
 
-* [空間IDタイルデータ取得SDKのデモ](https://geolonia.github.io/spatial-id-request-sdk/)
-* [Geolonia Javascript API を使用して地図を表示するデモ](https://codepen.io/naogify/pen/OJZGRQY) 
+地理空間情報を含む CSV または GeoJSON をコミットすると、 .mvt が作成され、同レポジトリの GitHub Pages 上にホストされます。ホストされたデータへ、空間IDタイルデータ取得SDKや、Mapbox GL JS、 MapLibre GL JS、Geolonia の Javascript API等を用いてアクセスすることで、 API 配信基盤として機能します。
 
+開発者が、自治体が公開するオープンデータや自組織が保有する地理空間情報を 空間ID のAPI化するために提供しています。
 
-## ご利用方法
+**テンプレートレポジトリ**とは、既存のレポジトリを自身や他の人が同じディレクトリ構造や GitHub Actions 等を持つ新たなレポジトリを作ることができる仕組みです。フォークとは異なり、ひとつのテンプレートレポジトリから、複数の、異なる名前とURLを持つレポジトリを作成することできます。
 
-* [[Use this template]](https://github.com/naogify/vector-tiles-api/generate) ボタンをクリックして、このテンプレートを自分のリポジトリにコピーしてください。
+![Geolonia spatialid-gh-template-image](https://user-images.githubusercontent.com/1124652/198641609-c585dc85-e045-4fcf-89c3-e4adfd0bcfb4.jpg)
+
+## テンプレートレポジトリの利用方法
+
+* [[Use this template]](https://github.com/geolonia/vector-tiles-api/generate) ボタンをクリックして、このテンプレートを自分のリポジトリにコピーしてください。
 * [GitHub Pages の設定方法](#github-pages-%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95) を参考に設定をして下さい。
 * `example.csv` を編集してコミットすると数分後に ベクトルタイルが生成されます。
   * csv の先頭行には、**必ず `緯度`、`経度`という項目を追加して下さい**
   * 任意のファイル名の CSV を1つのみ設置できます。
 * `https://<あなたのGitHubユーザー名>.github.io/<リポジトリ名>/tiles/tiles.json` の URLが生成されます。（[サンプル URL](https://geolonia.github.io/vector-tiles-api/tiles/tiles.json)）
 
-
-
 ### 空間IDタイルデータ取得SDKのご利用方法
 
 以下の公式ドキュメントをご参考ください。  
 https://github.com/geolonia/spatial-id-request-sdk/blob/main/README.md
 
+### 生成したデータを地図に表示する
 
-### Mapbox GL JS 等のラリブラリでのご利用方法
+また、[GitHub を活用した空間ID API を使って港区のフリーWi-Fiスポットを地図に表示するサンプル](https://codepen.io/shinichin/pen/PoaqQKm) では、作成した港区が公開している公衆無線LANのアクセスポイントのオープンデータを、地図（ここでは、[Geolonia Maps](https://geolonia.com/maps/)）の上に表示させています。
 
-生成した `tiles.json` の URL を以下のように指定することで、データソースとして地図に追加できます。
+![スクリーンショット 2022-10-29 0 16 31](https://user-images.githubusercontent.com/1124652/198672850-55ec7a2f-8d08-43ff-8594-dd0619f70e04.png)
 
-* `source-layer` は、`g-simplestyle-v1` と指定して下さい。
-
-```
-const map = new geolonia.Map({
-  container: "#map",
-  center: [139.73807, 35.65118],
-  zoom: 13,
-});
-
-map.on("load", () => {
-
-  map.addSource("sample-data", {
-    type: "vector",
-    url: "https://YOUR-GITHUB-USER.github.io/YOUR-REPOSITORY/tiles/tiles.json",
-  });
-
-  map.addLayer({
-    id: "circle",
-    source: "my-data",
-    "source-layer": "g-simplestyle-v1",
-    type: "circle",
-    paint: {
-      "circle-color": "#ff0000",
-      "circle-opacity": 0.5,
-      "circle-radius": 20
-    },
-    layout: {}
-  });
-});
-```
-上記は、Geolonia Javascript API の例になります。
 
 ### GeoJSON データのご利用方法
 
@@ -73,8 +44,6 @@ map.on("load", () => {
 ```
 
 https://github.com/geolonia/vector-tiles-api/blob/main/.github/workflows/build.yml#L20
-
-
 
 ## GitHub Pages の設定方法
 
