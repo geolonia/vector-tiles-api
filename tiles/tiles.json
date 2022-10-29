@@ -7,11 +7,11 @@
   "format": "mvt",
   "attribution": null,
   "minzoom": 0,
-  "maxzoom": 7,
+  "maxzoom": 14,
   "center": [
-    139.711909,
-    35.626501,
-    7
+    139.735107,
+    35.666222,
+    14
   ],
   "bounds": [
     139.711909,
