@@ -44,7 +44,6 @@ https://github.com/geolonia/vector-tiles-api/blob/main/.github/workflows/build.y
 
 生成したデータへの空間ID APIアクセスについては、[空間ID データ取得SDKのドキュメンテーションをご覧ください](./sdk.md)。
 
-
 ## 生成したデータを地図に表示する
 
 [GitHub を活用した空間ID API を使って港区のフリーWi-Fiスポットを地図に表示するサンプル](https://codepen.io/shinichin/pen/PoaqQKm) では、港区が公開している公衆無線LANのアクセスポイントのオープンデータを変換した上で、地図（ここでは、[Geolonia Maps](https://geolonia.com/maps/)）上に表示させています。
