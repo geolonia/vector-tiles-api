@@ -17,6 +17,7 @@
 * `example.csv` を編集してコミットすると数分後に ベクトルタイルが生成されます。
   * csv の先頭行には、**必ず `緯度`、`経度`という項目を追加して下さい**
   * 任意のファイル名の CSV を1つのみ設置できます。
+  * ファイルの文字コードは UTF-8 を指定して下さい。
 * `https://<あなたのGitHubユーザー名>.github.io/<リポジトリ名>/tiles/tiles.json` をリクエスト用のURL（[例](https://geolonia.github.io/vector-tiles-api/tiles/tiles.json)）として利用する。
 
 ### GeoJSON データのご利用方法
