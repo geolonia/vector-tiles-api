@@ -22,7 +22,7 @@
 
 ### GeoJSON データのご利用方法
 
-* 以下の [build.yml](https://github.com/geolonia/vector-tiles-api/blob/main/.github/workflows/build.yml#L20) の 20行目の `"*.csv"` を `"*.geojson"` に書き換えて push して下さい。
+* 以下の [build.yml](https://github.com/geolonia/vector-tiles-api/blob/main/.github/workflows/build.yml) の  `"*.csv"` を `"*.geojson"` に書き換えて push して下さい。
 * `example.csv` を削除し、`example.geojson` をアップロードして下さい。数分でタイルが生成されます。
 
 **build.yml**
@@ -32,7 +32,7 @@
     out_dir: ./
 ```
 
-https://github.com/geolonia/vector-tiles-api/blob/main/.github/workflows/build.yml#L20
+https://github.com/geolonia/vector-tiles-api/blob/main/.github/workflows/build.yml
 
 ## GitHub Pages の設定方法
 
